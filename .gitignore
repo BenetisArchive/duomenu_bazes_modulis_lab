@@ -1,0 +1,16 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.env.local.php
+.env.php
+.DS_Store
+Thumbs.db
+
+.tags
+.tags_sorted_by_file
+.gemtags
+./idea
+databases.sublime-project
+databases.sublime-workspace
+/app/config/database.php
