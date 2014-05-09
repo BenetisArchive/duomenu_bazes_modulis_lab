@@ -18,4 +18,5 @@ Route::resource('tech_apziura', 'TechApziuraController');
 Route::resource('registruoti_auto', 'RegistruotiAutoController');
 Route::resource('imokos', 'ImokosController');
 Route::resource('imokos_uz_auto', 'ImokosUzAutoController');
+Route::resource('imokosataskaita', 'ImokosAtaskaitaController');
 

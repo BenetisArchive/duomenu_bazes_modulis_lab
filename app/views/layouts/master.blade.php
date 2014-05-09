@@ -15,7 +15,8 @@
                 <li><a href="/tech_apziura/">Technine apziura</a></li>
                 <li><a href="/registruoti_auto/">Registruoti automobiliai</a></li>
                 <li><a href="/imokos/">Imokos</a></li>
-	    		<li><a href="/imokos_uz_auto/">Imokos uz auto</a></li>
+                <li><a href="/imokos_uz_auto/">Imokos uz auto</a></li>
+	    		<li><a href="/imokosataskaita/">Imoku ataskaita</a></li>
     		</ul>
         	@show
     	</nav>
